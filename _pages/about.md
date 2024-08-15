@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PhD candidate from The University of Hong Kong,[Department of Electrical and Electronic Engineering.](https://www.eee.hku.hk/study/rpg/) I am very fortunate to be supervised by [Prof. Houyun He](https://www.eee.hku.hk/~yhhou/index.htm), and my research area is about renewable energy and Inverter-based Resources.
+I am now a PhD candidate from The University of Hong Kong, [Department of Electrical and Electronic Engineering.](https://www.eee.hku.hk/study/rpg/) I am very fortunate to be supervised by [Prof. Houyun He](https://www.eee.hku.hk/~yhhou/index.htm), and my research area is about renewable energy and Inverter-based Resources.
 
 Fashion designs, movies and musics are all indispensable. I am also an authorized musician in [NetEase Music](https://music.163.com/#/artist?id=34602529)
 
