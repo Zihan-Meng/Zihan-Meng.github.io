@@ -11,7 +11,7 @@ I am now a PhD candidate from The University of Hong Kong, [Department of Electr
 
 Fashion designs, movies and musics are all indispensable. I am also an authorized musician in [NetEase Music](https://music.163.com/#/artist?id=34602529)
 
-You can find my CV here: [ZihanMeng's CV](assets/meng_zihan_cv.pdf).
+You can find my CV here: [ZihanMeng's CV](../assets/meng_zihan_cv.pdf).
 
 Let's chat!
 
@@ -31,19 +31,19 @@ Single-phase Passive LED Driver Design (2023), UNITED GROUP (GLOBAL) LIMITED, HO
 
 Exchange Experience
 ======
-Association of Pacific Rim Universities: Virtual Student Exchange 2023-24, THE CHINESE UNIVERSITY OF HONG KONG, Hong Kong, China
+Association of Pacific Rim Universities: Virtual Student Exchange, 2023-24. The Chinese University of Hong Kong, Hong Kong, China
 
-2023 SDG Global Summer School, ZHEJIANG UNIVERSITY, Hangzhou, Zhejiang, China
+SDG Global Summer School, 2023. Zhejiang University, China
 
-GLOBEX Julmester Program, PEKING UNIVERSITY, Beijing, China
+GLOBEX Julmester Program, 2022. Peking University, China
 
-Peking University Summer School International, PEKING UNIVERSITY, Beijing, China
+Peking University Summer School International, 2021. Peking University, China
 
 Award
 ======
 ● Hong Kong PhD Fellowship Scheme Award 2024-2025
 
-● HKU Presidential PhD Scholarship 2024-2025
+● HKU Presidential PhD Scholar Award 2024-2025
 
 ● CLP Scholarship Award 2024 
 
