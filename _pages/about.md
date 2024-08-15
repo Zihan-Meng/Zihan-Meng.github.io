@@ -17,7 +17,7 @@ Let's chat!
 
 Education
 ======
-First Class Honour, Bachelor of Engineering in Electrical Engineering
+First Class Honour, Bachelor of Engineering in Electrical Engineering (2024)
 
 The University of Hong Kong, Hong Kong, China
 
