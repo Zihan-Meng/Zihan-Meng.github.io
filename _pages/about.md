@@ -10,14 +10,12 @@ redirect_from:
 I am now a PhD candidate from The University of Hong Kong, [Department of Electrical and Electronic Engineering.](https://www.eee.hku.hk/study/rpg/) I am very fortunate to be supervised by [Prof. Houyun He](https://www.eee.hku.hk/~yhhou/index.htm), and my research area is about renewable energy and Inverter-based Resources.
 
 Fashion designs, movies and musics are all indispensable. I am also an authorized musician in [NetEase Music](https://music.163.com/#/artist?id=34602529)
-#You can find my CV [here](https://Zihan-Meng/assets/meng_zihan_cv.pdf).
 
 Let's chat!
 
 Education
 ======
-First Class Honour, Bachelor of Engineering in Electrical Engineering (2024)
-The University of Hong Kong, Hong Kong, China
+First Class Honour, Bachelor of Engineering in Electrical Engineering (2024). The University of Hong Kong, Hong Kong, China
 
 Professional Experience
 ======
